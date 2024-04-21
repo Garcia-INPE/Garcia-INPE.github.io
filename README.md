@@ -10,7 +10,7 @@ END OF COMMENTS -->
 ### My self
 I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE)
 
-<img src="images/" alt="JRMG_Headshot" width="200" align="right" />
+<img src="assets/img/JRMGarcia.jpeg" alt="JRMG_Headshot" width="200" align="right" />
 
 <a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src=""></a>
 <a href="https://github.com/Garcia-INPE" target="_blank"><img src=""></a>
