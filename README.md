@@ -23,9 +23,11 @@ I'm a Brazilian citizen that works at the Brazilian National Institute for Space
 > ### Projects
 > ### Awards
 
-#### 3dr Place in Challenge to Develop and Demonstrate the Best New Forecast Verification Approach Using Non-Traditional Observations - 
+#### **3dr Place in [Challenge to Develop and Demonstrate the Best New Forecast Verification Approach Using Non-Traditional Observations](https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations)**  
+Promoted by: [World Weather Research Programme (WWRP/WMO)](https://community.wmo.int/en/activity-areas/wwrp)
 
-**Title**: CLOUD COVERAGE ESTIMATION USING WEBCAMS
+#### **Title**: CLOUD COVERAGE ESTIMATION USING WEBCAMS
+
 | original photo | Random Forest estimation |
 |:-:|:-:|
 | <img src="assets/img/NonConv-Sidney-Photo.jpg" /> | <img src="assets/img/NonConv-Sidney-RF.jpg" /> |
