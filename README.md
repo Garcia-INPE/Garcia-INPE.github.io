@@ -1,4 +1,4 @@
-<!-- BEGIN OF COMMENTS
+![image](https://github.com/Garcia-INPE/Garcia-INPE.github.io/assets/99909390/a603cec2-5665-4de0-8cf6-20848d97d11b)<!-- BEGIN OF COMMENTS
 https://www.markdownguide.org/
 https://www.markdownguide.org/cheat-sheet
 https://icons-for-free.com/
@@ -21,10 +21,15 @@ I'm a Brazilian citizen that works at the Brazilian National Institute for Space
 > ### Skills 
 
 > ### Projects
-
+---
 #### **Science in School**
+<img src="assets/img/ScienceInSchool.jpg" /> 
+
+---
 #### **BRICS**
+---
 #### **COMBINING CLIMATE NUMERICAL MODELING AND ML USE IN DETECTING CLIMATE EXTREMES IN SUB SEASONAL, SEASONAL AND MULTI-DECADAL HORIZONS**
+---
 #### KEYWORDS: Climate forecast, AI/ML, Floods, Droughts, Heat Waves, Madeira river, Paraná river, São Francisco river
 #### ****SYNOPTIC ANALYSIS OF EXTREME WEATHER EVENTS IN SOUTHERN BRAZIL**
 
