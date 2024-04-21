@@ -6,24 +6,25 @@ This is a landing page
 END OF COMMENTS -->
 
 <h1 align="center">Portfolio</h1>
-<h1 align="center">Dr. JRM Garcia - INPE / MCTI</h1>
+<h1 align="center">Dr. José Roberto Motta *Garcia* - INPE / MCTI</h1>
 
-### My self
+> ### My self
 I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE)
 
+> ### Social Media
 <img src="assets/img/JRMGarcia.jpeg" alt="JRMG_Headshot" width="200" align="right" />
 
 <a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src="assets/img/linkedin_64.png"></a>
 <a href="https://github.com/Garcia-INPE" target="_blank"><img src="assets/img/github_64.png"></a>
 <a href="https://www.youtube.com/@Garcia_AI_Dev" target="_blank"><img src="assets/img/youtube_64.png"></a>
 
-### Skills 
+> ### Skills 
 
-### Projects
-### Azards 
-### Education
+> ### Projects
+> ### Azards 
+> ### Education
 
-## Professional interests
+> ## Professional interests
 * Do and disseminate open science and save lives
 
 ## Personal interests
