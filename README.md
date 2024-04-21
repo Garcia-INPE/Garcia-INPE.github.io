@@ -21,7 +21,16 @@ I'm a Brazilian citizen that works at the Brazilian National Institute for Space
 > ### Skills 
 
 > ### Projects
-> ### Azards 
+> ### Awards
+
+#### 3dr Place in Challenge to Develop and Demonstrate the Best New Forecast Verification Approach Using Non-Traditional Observations - 
+
+**Title**: CLOUD COVERAGE ESTIMATION USING WEBCAMS
+| original photo | Random Forest estimation |
+|:-:|:-:|
+| <img src="assets/img/NonConv-Sidney-Photo.jpg" /> | <img src="assets/img/NonConv-Sidney-RF.jpg" /> |
+| <img src="assets/img/NonConv-Ilhabela-Photo.jpg" /> | <img src="assets/img/NonConv-Ilhabela-RF.jpg" /> |
+
 > ### Education
 
 > ## Professional interests
