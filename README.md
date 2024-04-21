@@ -13,10 +13,10 @@ I'm a Brazilian citizen that works at the Brazilian National Institute for Space
 
 <img src="assets/img/JRMGarcia.jpeg" alt="JRMG_Headshot" width="200" align="right" />
 
-<a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src=""></a>
-<a href="https://github.com/Garcia-INPE" target="_blank"><img src=""></a>
-<a href="https://twitter.com/jrm_garcia" target="_blank"><img src=""></a>
-<a href="https://www.youtube.com/@Garcia_AI_Dev" target="_blank"><img src=""></a>
+<a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src="assets/img/linkedin_64.png"></a>
+<a href="https://github.com/Garcia-INPE" target="_blank"><img src="assets/img/github_64.png"></a>
+<a href="https://twitter.com/jrm_garcia" target="_blank"><img src="assets/img/twitter_64.png"></a>
+<a href="https://www.youtube.com/@Garcia_AI_Dev" target="_blank"><img src="assets/img/youtube_64.png"></a>
 
 ### Skills 
 
