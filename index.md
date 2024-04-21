@@ -18,6 +18,7 @@ END OF COMMENTS -->
 ### Projects
 ---
 ### **Science in School**
+Engage children in science through their participation in the creation of a network of low-cost rain gauges made by themselves, with subsequent manipulation and visualization of data over the internet.
 <img src="assets/img/ScienceInSchool.jpg" /> 
 
 ---
