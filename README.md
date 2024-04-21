@@ -4,7 +4,8 @@ https://www.markdownguide.org/cheat-sheet
 This is a landing page
 END OF COMMENTS -->
 
-<h1 align="center">Dr. JRM Garcia - INPE / MCTI Portfolio</h1>
+<h1 align="center">Portfolio</h1>
+<h1 align="center">Dr. JRM Garcia - INPE / MCTI</h1>
 
 ### My self
 I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE)
