@@ -5,9 +5,9 @@ https://icons-for-free.com/
 This is a landing page
 END OF COMMENTS -->
 
-<h2 align="center">Portfolio<br/>Dr. José Roberto Motta <strong><u>Garcia</u></strong> - <a href="https://www.gov.br/inpe/pt-br">INPE</a> / <a href="https://www.gov.br/mcti/pt-br">MCTI</a></h2>
+<h1 align="center">Portfolio<br/>Dr. José Roberto Motta <strong><u>Garcia</u></strong> - <a href="https://www.gov.br/inpe/pt-br">INPE</a> / <a href="https://www.gov.br/mcti/pt-br">MCTI</a></h1>
 
-| My self | |
+| <h3>My self</h3> | |
 |:-|-|
 | I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE)<br/><br/>**Social Media**<br/><a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src="assets/img/linkedin_64.png" /></a><a href="https://github.com/Garcia-INPE" target="_blank"><img src="assets/img/github_64.png" /></a><a href="https://www.youtube.com/@Garcia_AI_Dev" target="_blank"><img src="assets/img/youtube_64.png" /></a><a href="https://www.instagram.com/garcia_ai_dev" target="_blank"><img src="assets/img/instagram_64.png" /></a> | <img src="assets/img/JRMGarcia.jpeg" alt="JRMG_Headshot" width="200" align="right" /> |
 
