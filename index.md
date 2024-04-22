@@ -16,13 +16,13 @@ END OF COMMENTS -->
 ---
 ### Projects
 ---
-> **Science in School**
+> **Science in School**<br/>
 Engage children in science through their participation in the creation of a network of low-cost rain gauges made by themselves, with subsequent manipulation and visualization of data over the internet.
 <img src="assets/img/ScienceInSchool.jpg" /> 
 
-> **Artificial Intelligence and Earth System Modeling toward Detection of Extreme Climate Events in the BRICS**
+> **Artificial Intelligence and Earth System Modeling toward Detection of Extreme Climate Events in the BRICS**<br/>
 
-> **COMBINING CLIMATE NUMERICAL MODELING AND ML USE IN DETECTING CLIMATE EXTREMES IN SUB SEASONAL, SEASONAL AND MULTI-DECADAL HORIZONS**
+> **COMBINING CLIMATE NUMERICAL MODELING AND ML USE IN DETECTING CLIMATE EXTREMES IN SUB SEASONAL, SEASONAL AND MULTI-DECADAL HORIZONS**<br/>
 
 #### KEYWORDS: Climate forecast, AI/ML, Floods, Droughts, Heat Waves, Madeira river, Paraná river, São Francisco river
 #### ****SYNOPTIC ANALYSIS OF EXTREME WEATHER EVENTS IN SOUTHERN BRAZIL**
