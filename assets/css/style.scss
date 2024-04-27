@@ -6,12 +6,13 @@
 .wrapper {
     width: 90%;
 }
-/*
-    margin: 0 auto;
-    position: relative;
-    padding: 0 20px;
+
+#header nav {
+    max-width: 100%;  /* 100% of the container the nav is within */
 }
 
+/*
+   
 .inner {
   width: 100%;
   max-width: 100%;
@@ -22,11 +23,4 @@ section {
   max-width: 100%;
 }
 
-#header nav {
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0 10px;
-    background: blue;
-    margin: 6px auto;
-}
 */
