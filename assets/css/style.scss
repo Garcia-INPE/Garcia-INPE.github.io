@@ -3,9 +3,12 @@
 
 @import "{{ site.theme }}";
 
+/* Configuration for Jekyll theme mininal */
+/* For other themes this must not work properly */
+
 .wrapper {
-  width: 90%;
-  max-width: 90%;
+  width: 95%;
+  max-width: 95%;
 }
 
 /* Components below are configured for 100% of the container they are within */
@@ -20,6 +23,6 @@
 }
 
 section {
-  width: 100%;
-  max-width: 100%;
+  width: 80%;
+  max-width: 80%;
 }
