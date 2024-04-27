@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+    max-width: 90%;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 20px;
+}
+/*
 .inner {
   width: 100%;
   max-width: 100%;
@@ -19,3 +26,4 @@ section {
     background: blue;
     margin: 6px auto;
 }
+*/
