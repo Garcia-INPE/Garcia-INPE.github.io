@@ -4,15 +4,16 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-    width: 90%;
+  width: 90%;
+  max-width: 90%;
 }
 
+/* Components below are configured for 100% of the container they are within */
 #header nav {
-    max-width: 100%;  /* 100% of the container the nav is within */
+  width: 100%;
+  max-width: 100%;
 }
 
-/*
-   
 .inner {
   width: 100%;
   max-width: 100%;
@@ -22,5 +23,3 @@ section {
   width: 100%;
   max-width: 100%;
 }
-
-*/
