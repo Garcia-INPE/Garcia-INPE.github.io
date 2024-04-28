@@ -78,9 +78,11 @@ Promoted by: [World Weather Research Programme (WWRP/WMO)](https://community.wmo
 
 ---
 ## Education
+
 ---
 ## Professional interests
 * Do and disseminate open science and save lives
+  
 ---
 ## Personal interests
 * Sports: Soccer, Weight trainning, Surfing, Paragliding, Running, Hiking, Cycling
