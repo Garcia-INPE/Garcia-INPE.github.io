@@ -11,11 +11,18 @@ td, th, tr {
 }
 </style>
 
+Boeing, G. 2017. OSMnx: New Methods for Acquiring, Constructing, Analyzing, and Visualizing Complex Street Networks. Computers, Environment and Urban Systems 65, 126-139.
+
+
+
 ## My self
 <table>
    <tr>
       <td width="60%" align="justify">
          <h4>I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE). I love applying science and technology to solve environmental problems in order to save lives, care for planet Earth and minimize economic damage.</h4>
+      </td>
+      <td>
+         <embed type="text/html" src="assets/INPE.html" width="300" height="300">
       </td>
       <td align="center">
          <a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src="assets/img/linkedin_64.png" /></a>&nbsp;
