@@ -15,10 +15,7 @@ td, th, tr {
 <table>
    <tr>
       <td width="60%" align="justify">
-         <h4>I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE). 
-         I love applying science and technology to solve environmental problems in order to save lives, care for planet Earth and minimize economic damage.
-         </h4>
-      </td>
+         <h4>I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE). I love applying science and technology to solve environmental problems in order to save lives, care for planet Earth and minimize economic damage.</h4>
       </td>
       <td align="center">
          <a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src="assets/img/linkedin_64.png" /></a>&nbsp;
@@ -46,30 +43,29 @@ td, th, tr {
 
 <table>
    <tr><td>
-      <h3 style="color:blue"><b>SCIENCE IN SCHOOL</b></h3>
-      <p>Engage children in science through their participation in the creation of a network of low-cost rain gauges made by themselves, with subsequent manipulation and visualization of data over the internet.</p>
+      <h3 style="color:blue"><b><li>SCIENCE IN SCHOOL</li></b></h3>
+      <p>Engage children in science through their participation in the creation of a network of low-cost rain gauges made by themselves, with subsequent data manipulation and visualization on a dashboard and a map in the internet.</p>
       <img src="assets/img/ScienceInSchool.jpg" /> 
    </td></tr>
 
    <tr><td>
-      <h3 style="color:blue"><b>ARTIFICIAL INTELLIGENCE AND EARTH SYSTEM MODELING TOWARD DIRECTION OF EXTREME CLIMATE EVENTS IN THE BRICS</b></h3>
+      <h3 style="color:blue"><b><li>ARTIFICIAL INTELLIGENCE AND EARTH SYSTEM MODELING TOWARD DIRECTION OF EXTREME CLIMATE EVENTS IN THE BRICS</li></b></h3>
    </td></tr>
 
    <tr><td>
-      <h3 style="color:blue"><b>COMBINING CLIMATE NUMERICAL MODELING AND ML USE IN DETECTING CLIMATE EXTREMES IN SUB SEASONAL, SEASONAL AND MULTI-DECADAL HORIZONS</b></h3>
+      <h3 style="color:blue"><b><li>COMBINING CLIMATE NUMERICAL MODELING AND ML USE IN DETECTING CLIMATE EXTREMES IN SUB SEASONAL, SEASONAL AND MULTI-DECADAL HORIZONS</li></b></h3>
       <p>KEYWORDS: Climate forecast, AI/ML, Floods, Droughts, Heat Waves, Madeira river, Paraná river, São Francisco river</p>
    </td></tr>
 
    <tr><td>
-      <h3 style="color:blue"><b>SYNOPTIC ANALYSIS OF EXTREME WEATHER EVENTS IN SOUTHERN BRAZIL</b></h3>
+      <h3 style="color:blue"><b><li>SYNOPTIC ANALYSIS OF EXTREME WEATHER EVENTS IN SOUTHERN BRAZIL</li></b></h3>
       <p><img src="assets/img/Aval_ProjGustEscobar.jpg" align="center"/></p>
    </td></tr>
 </table>
    
 ---
 ## Awards
-<h3 style="color:blue"><b>3rd Place in <a href="https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations">Challenge: Best New Forecast Verification Approach Using Non-Traditional Observations</a></b></h3>
-Promoted by: <a href="https://community.wmo.int/en/activity-areas/wwrp">World Weather Research Programme (WWRP/WMO)</a>
+<h3 style="color:blue"><b>3rd Place in <a href="https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations">Challenge: Best New Forecast Verification Approach Using Non-Traditional Observations</a></b> <h4>Promoted by: <a href="https://community.wmo.int/en/activity-areas/wwrp">World Weather Research Programme (WWRP/WMO)</a></h4></h3>
 
 <h3 style="color:blue">Title: <b>CLOUD COVERAGE ESTIMATION USING WEBCAMS</b></h3>
 
