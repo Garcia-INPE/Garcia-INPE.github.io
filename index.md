@@ -2,6 +2,7 @@
 https://www.markdownguide.org/
 https://www.markdownguide.org/cheat-sheet
 https://icons-for-free.com/
+Boeing, G. 2017. OSMnx: New Methods for Acquiring, Constructing, Analyzing, and Visualizing Complex Street Networks. Computers, Environment and Urban Systems 65, 126-139.
 This is a landing page
 END OF COMMENTS -->
 
@@ -11,25 +12,22 @@ td, th, tr {
 }
 </style>
 
-Boeing, G. 2017. OSMnx: New Methods for Acquiring, Constructing, Analyzing, and Visualizing Complex Street Networks. Computers, Environment and Urban Systems 65, 126-139.
 
-
-
-## My self
 <table>
    <tr>
       <td width="60%" align="justify">
+         <h3> My self</h3>
          <h4>I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE). I love applying science and technology to solve environmental problems in order to save lives, care for planet Earth and minimize economic damage.</h4>
-      </td>
-      <td>
-         <embed type="text/html" src="assets/INPE.html" width="300" height="300">
-      </td>
-      <td align="center">
+      <p align="center">
          <a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src="assets/img/linkedin_64.png" /></a>&nbsp;
          <a href="https://github.com/Garcia-INPE" target="_blank"><img src="assets/img/github_64.png" /></a>&nbsp;
          <a href="https://www.youtube.com/@Garcia_AI_Dev" target="_blank"><img src="assets/img/youtube_64.png" /></a>&nbsp;
          <a href="https://www.instagram.com/garcia_ai_dev" target="_blank"><img src="assets/img/instagram_64.png" /></a>
          <!-- | <img src="assets/img/JRMGarcia.jpeg" alt="JRMG_Headshot" width="200" align="right" /> -->
+      </p>
+      </td>
+      <td>
+         <embed type="text/html" src="assets/INPE.html" width="300" height="300">
       </td>
    </tr>
 </table>
