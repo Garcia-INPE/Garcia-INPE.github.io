@@ -12,7 +12,7 @@ td, th, tr {
 }
 </style>
 
-<embed type="text/html" src="assets/INPE.html" width="300" height="300" align="right">
+<embed type="text/html" src="assets/INPE.html" width="400" height="400" align="right">
 
 <table>
    <tr>
