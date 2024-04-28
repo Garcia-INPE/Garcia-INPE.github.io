@@ -6,22 +6,25 @@
 /* Configuration for Jekyll theme mininal */
 /* For other themes this must not work properly */
 
+/* Width controls how much the whole page is wide, wrt display size */
 .wrapper {
   width: 95%;
   max-width: 95%;
 }
 
-/* Components below are configured for 100% of the container they are within */
+/* Configured to 100% fit the container they are within */
 #header nav {
-  width: 100%;
+  width: 100%;        /* was set in 650px */
   max-width: 100%;
 }
 
+/* Configured to 100% fit the container they are within */
 .inner {
-  width: 100%;
+  width: 100%;        /* was set in 650px */
   max-width: 100%;
 }
 
+/* Width controls how much the body part of the navigation layout is closer to the left strip */
 section {
   width: 78%;
   max-width: 78%;
