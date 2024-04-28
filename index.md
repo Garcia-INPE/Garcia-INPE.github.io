@@ -20,31 +20,37 @@ td, th, tr {
 -->
 
 ---
-### Skills 
+## Skills 
+
+* Artificial Intelligence
+* Computer Programming
+* Data base systems
+* Project Management
+  
 ---
-### Projects
----
-**SCIENCE IN SCHOOL**
+## Projects
+
+**<h3>SCIENCE IN SCHOOL</h3>**
 <p>
    Engage children in science through their participation in the creation of a network of low-cost rain gauges made by themselves, with subsequent manipulation and visualization of data over the internet.
 </p>
 <img src="assets/img/ScienceInSchool.jpg" /> 
 
-**Artificial Intelligence and Earth System Modeling toward Detection of Extreme Climate Events in the BRICS**
+**<h3>Artificial Intelligence and Earth System Modeling toward Detection of Extreme Climate Events in the BRICS</h3>**
 <p></p>
 
-**COMBINING CLIMATE NUMERICAL MODELING AND ML USE IN DETECTING CLIMATE EXTREMES IN SUB SEASONAL, SEASONAL AND MULTI-DECADAL HORIZONS**
+**<h3>COMBINING CLIMATE NUMERICAL MODELING AND ML USE IN DETECTING CLIMATE EXTREMES IN SUB SEASONAL, SEASONAL AND MULTI-DECADAL HORIZONS</h3>**
 <p>
 #### KEYWORDS: Climate forecast, AI/ML, Floods, Droughts, Heat Waves, Madeira river, Paraná river, São Francisco river
 #### ****SYNOPTIC ANALYSIS OF EXTREME WEATHER EVENTS IN SOUTHERN BRAZIL**
 </p>
 <img src="assets/img/Aval_ProjGustEscobar.jpg" align="center"/>
 ---
-### Awards
-#### **3dr Place in [Challenge to Develop and Demonstrate the Best New Forecast Verification Approach Using Non-Traditional Observations](https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations)**
+## Awards
+### **3dr Place in [Challenge to Develop and Demonstrate the Best New Forecast Verification Approach Using Non-Traditional Observations](https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations)**
 Promoted by: [World Weather Research Programme (WWRP/WMO)](https://community.wmo.int/en/activity-areas/wwrp)
 
-#### **Title**: CLOUD COVERAGE ESTIMATION USING WEBCAMS
+### **Title**: CLOUD COVERAGE ESTIMATION USING WEBCAMS
 
 | Original photo | Random Forest estimation |
 |:-:|:-:|
@@ -52,18 +58,12 @@ Promoted by: [World Weather Research Programme (WWRP/WMO)](https://community.wmo
 | <img src="assets/img/NonConv-Ilhabela-Photo.jpg" /> | <img src="assets/img/NonConv-Ilhabela-RF.jpg" /> |
 
 ---
-
-### Education
-
+## Education
 ---
-
-### Professional interests
-
+## Professional interests
 * Do and disseminate open science and save lives
-
 ---
-
-### Personal interests
+## Personal interests
 * Sports: Soccer, Weight trainning, Surfing, Paragliding, Running, Hiking, Cycling
 * Traveling: Patagônia, Europe, USA, South America ...
   
