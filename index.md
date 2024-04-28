@@ -66,8 +66,8 @@ td, th, tr {
    
 ---
 ## Awards
-<h3 style="color:blue"><b>3rd Place in [Challenge to Develop and Demonstrate the Best New Forecast Verification Approach Using Non-Traditional Observations](https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations)</b></h3>
-Promoted by: [World Weather Research Programme (WWRP/WMO)](https://community.wmo.int/en/activity-areas/wwrp)
+<h3 style="color:blue"><b>3rd Place in <a href="https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations">Challenge: Best New Forecast Verification Approach Using Non-Traditional Observations</a></b></h3>
+Promoted by: <a href="https://community.wmo.int/en/activity-areas/wwrp">World Weather Research Programme (WWRP/WMO)</a>
 
 <h3 style="color:blue">Title: <b>CLOUD COVERAGE ESTIMATION USING WEBCAMS</b></h3>
 
