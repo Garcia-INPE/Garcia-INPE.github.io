@@ -65,7 +65,7 @@ td, th, tr {
    
 ---
 ## Awards
-<h3 style="color:blue"><b>3rd Place in <a href="https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations">Challenge: Best New Forecast Verification Approach Using Non-Traditional Observations</a></b> <h4>Promoted by: <a href="https://community.wmo.int/en/activity-areas/wwrp">World Weather Research Programme (WWRP/WMO)</a></h4></h3>
+<h3 style="color:blue"><b>3rd Place in <a href="https://community.wmo.int/en/wgfvrhiweatherwinners-2nd-international-verification-challenge-best-new-verification-metric-making-use-non-traditional-observations">Challenge: Best New Forecast Verification Approach Using Non-Traditional Observations</a></b> Promoted by: <a href="https://community.wmo.int/en/activity-areas/wwrp">World Weather Research Programme (WWRP/WMO)</a></h3>
 
 <h3 style="color:blue">Title: <b>CLOUD COVERAGE ESTIMATION USING WEBCAMS</b></h3>
 
@@ -76,12 +76,11 @@ td, th, tr {
 
 ---
 ## Education
-
-* Doctoral degree at INPE/BR: Theme: Applying Neural networks to calibrate a global ensemble Numerical Weather Prediction system
-* Master degree at INPE/BR: Theme: Building a semi-automatic database persistence layer
+* **Doctoral degree** at INPE/BR: Theme: Applying Neural networks to calibrate a global ensemble Numerical Weather Prediction system
+* **Master degree** at INPE/BR: Theme: Building a semi-automatic database persistence layer
 
 ---
 ## Personal interests
-* Sports: Soccer, Weight trainning, Surfing, Paragliding, Running, Hiking, Cycling
-* Traveling: Patagônia, Europe, USA, South America ...
+* **Sports**: Soccer, Weight trainning, Surfing, Paragliding, Running, Hiking, Cycling
+* **Traveling**: Patagônia, Europe, USA, South America, ... and around the world.
   
