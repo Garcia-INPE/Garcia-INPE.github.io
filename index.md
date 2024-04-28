@@ -14,9 +14,11 @@ td, th, tr {
 ## My self
 <table>
    <tr>
-      <td width="60%">
+      <td width="60%" align="justify">
          <h4>I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE). 
-         I love to apply science to address environmental problems.</h4>
+         I love applying science and technology to solve environmental problems in order to save lives, care for planet Earth and minimize economic damage.
+         </h4>
+      </td>
       </td>
       <td align="center">
          <a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src="assets/img/linkedin_64.png" /></a>&nbsp;
@@ -79,10 +81,9 @@ Promoted by: <a href="https://community.wmo.int/en/activity-areas/wwrp">World We
 ---
 ## Education
 
----
-## Professional interests
-* Do and disseminate open science and save lives
-  
+* Doctoral degree at INPE/BR: Theme: Applying Neural networks to calibrate a global ensemble Numerical Weather Prediction system
+* Master degree at INPE/BR: Theme: Building a semi-automatic database persistence layer
+
 ---
 ## Personal interests
 * Sports: Soccer, Weight trainning, Surfing, Paragliding, Running, Hiking, Cycling
