@@ -15,7 +15,7 @@ td, th, tr {
 <table>
    <tr>
       <td width="60%" align="justify">
-         <h3> My self</h3>
+         <h2> My self</h2>
          <h4>I'm a Brazilian citizen that works at the Brazilian National Institute for Space Research (INPE). I love applying science and technology to solve environmental problems in order to save lives, care for planet Earth and minimize economic damage.</h4>
       <p align="center">
          <a href="https://www.linkedin.com/in/jrmgarcia/" target="_blank"><img src="assets/img/linkedin_64.png" /></a>&nbsp;
