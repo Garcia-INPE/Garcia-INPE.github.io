@@ -12,6 +12,7 @@ td, th, tr {
 }
 </style>
 
+<embed type="text/html" src="assets/INPE.html" width="300" height="300" align="right">
 
 <table>
    <tr>
@@ -25,9 +26,6 @@ td, th, tr {
          <a href="https://www.instagram.com/garcia_ai_dev" target="_blank"><img src="assets/img/instagram_64.png" /></a>
          <!-- | <img src="assets/img/JRMGarcia.jpeg" alt="JRMG_Headshot" width="200" align="right" /> -->
       </p>
-      </td>
-      <td>
-         <embed type="text/html" src="assets/INPE.html" width="300" height="300">
       </td>
    </tr>
 </table>
