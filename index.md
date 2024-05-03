@@ -53,6 +53,12 @@ td, th, tr {
    </td></tr>
 
    <tr><td>
+      <h3 style="color:blue"><b><li><a href="https://ai-sismom.github.io/">AI applied for SisMOM - Monitoring Oil Spills in de Ocean</a></li></b></h3>
+      <p></p>
+      <img src="assets/img/Logo-SisMOM.jpg" /> 
+   </td></tr>
+
+   <tr><td>
       <h3 style="color:blue"><b><li>ARTIFICIAL INTELLIGENCE AND EARTH SYSTEM MODELING TOWARD DIRECTION OF EXTREME CLIMATE EVENTS IN THE BRICS</li></b></h3>
    </td></tr>
 
