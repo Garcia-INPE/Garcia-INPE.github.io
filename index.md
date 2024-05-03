@@ -26,7 +26,7 @@ td, th, tr {
       </p>
       </td>
       <td>
-         <embed type="text/html" src="assets/INPE.html" width="450" height="400" align="right">
+         <embed type="text/html" src="assets/INPE_Map.html" width="450" height="400" align="right">
       </td>
    </tr>
 </table>
