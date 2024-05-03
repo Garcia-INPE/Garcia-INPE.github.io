@@ -6,10 +6,21 @@
 /* Configuration for Jekyll theme mininal */
 /* For other themes this must not work properly */
 
-/* Width controls how much the whole page is wide, wrt display size */
+/* The whole page, combine header + section */
 .wrapper {
-  width: 95%;
-  max-width: 95%;
+  width: 1400px;
+  max-width: 1400px;
+}
+
+/* Left vertical bar */
+header {
+    width: 250px;
+}
+
+/* Width controls how much the body part of the navigation layout is closer to the left strip */
+section {
+  width: 1100px;
+  max-width: 1100px;
 }
 
 /* Configured to 100% fit the container they are within */
@@ -24,8 +35,3 @@
   max-width: 100%;
 }
 
-/* Width controls how much the body part of the navigation layout is closer to the left strip */
-section {
-  width: 78%;
-  max-width: 78%;
-}
