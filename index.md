@@ -49,7 +49,7 @@ td, th, tr {
    <tr><td>
       <h3 style="color:blue"><b><li><a href="https://ai-sismom.github.io/">AI applied for SisMOM - Monitoring Oil Spills in de Ocean</a></li></b></h3>
       <p></p>
-      <img src="assets/img/Logo-SisMOM.jpg" /> 
+      <img src="assets/img/Logo-SisMOM.png" /> 
    </td></tr>
    
    <tr><td>
