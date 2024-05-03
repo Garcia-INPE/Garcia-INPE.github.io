@@ -47,18 +47,18 @@ td, th, tr {
 
 <table>
    <tr><td>
+      <h3 style="color:blue"><b><li><a href="https://ai-sismom.github.io/">AI applied for SisMOM - Monitoring Oil Spills in de Ocean</a></li></b></h3>
+      <p></p>
+      <img src="assets/img/Logo-SisMOM.jpg" /> 
+   </td></tr>
+   
+   <tr><td>
       <h3 style="color:blue"><b><li>SCIENCE IN SCHOOL</li></b></h3>
       <p>Engage children in science through their participation in the creation of a network of low-cost rain gauges made by themselves, with subsequent data manipulation and visualization on a dashboard and a map in the internet.</p>
       <img src="assets/img/ScienceInSchool.jpg" /> 
    </td></tr>
 
-   <tr><td>
-      <h3 style="color:blue"><b><li><a href="https://ai-sismom.github.io/">AI applied for SisMOM - Monitoring Oil Spills in de Ocean</a></li></b></h3>
-      <p></p>
-      <img src="assets/img/Logo-SisMOM.jpg" /> 
-   </td></tr>
-
-   <tr><td>
+      <tr><td>
       <h3 style="color:blue"><b><li>ARTIFICIAL INTELLIGENCE AND EARTH SYSTEM MODELING TOWARD DIRECTION OF EXTREME CLIMATE EVENTS IN THE BRICS</li></b></h3>
    </td></tr>
 
